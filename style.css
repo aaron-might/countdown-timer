@@ -20,7 +20,8 @@ body {
 h1{
     font-weight: normal;
     font-size: 4rem;
-    margin-top: -10rem;
+    /* margin-top: -10rem; */
+    margin-top: 5rem;
 }
 .countdown-container {
     display: flex;
